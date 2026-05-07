@@ -28,5 +28,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=xsahil03x&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.shion.dev/api?username=xsahil03x&show_icons=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=xsahil03x&show_icons=true" alt="GitHub Readme Stats for xsahil03x" />
 </picture>
